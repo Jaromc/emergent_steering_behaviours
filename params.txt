@@ -1,0 +1,16 @@
+neighbourTagRadius 100
+wallWeight 0.8
+evadeWeight 0.4
+wanderWeight 0.1 
+separationWeight 0.8
+separationForce 50.
+alignmentWeight 0.2
+cohesionWeight 0.1
+feelerLength 50
+feelerAngle 0.785
+panicDistance 200.0
+wanderRate 0.5
+wanderDistance 100
+wanderRadius 10
+windowX 800
+windowY 600
