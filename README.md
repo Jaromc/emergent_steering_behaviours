@@ -8,6 +8,7 @@ Demonstration of blending several steering behaviours together to form emergent 
 * ```mkdir build``` in the project folder
 * Enter build and run ```cmake -G "NMake Makefiles" ..```
 * run ```nmake```
+* Copy params.txt into build folder 
 
 ### On Running ###
 
@@ -15,5 +16,11 @@ Demonstration of blending several steering behaviours together to form emergent 
 * Pressing 2 will use flee
 
 ### Result ###
+Seek
 
+https://github.com/Jaromc/emergent_steering_behaviours/assets/89912906/57cb084a-88b8-4fcf-907e-c71e7be304c3
+
+Flee
+
+https://github.com/Jaromc/emergent_steering_behaviours/assets/89912906/c4716643-90f5-4d2a-bb5c-d937bda0d93c
 
